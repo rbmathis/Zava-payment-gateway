@@ -1,2 +1,5 @@
 # Zava-payment-gateway
-[FlowLens Demo] Payment processing gateway — Team: Payment Gateway, Group: Payments
+
+Payment processing gateway
+
+Update 1 by James Chen
